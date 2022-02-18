@@ -1,12 +1,10 @@
-### Hi there 👋
 
-
-
-<div align="center"><img src=https://github-readme-stats.vercel.app/api?username=Henriquealarcon&show_icons=true&title_color=e87722&text_color=f0ffff&bg_color=313250&icon_color=e87722&border_radius=9px/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white width="100px" border_radius=9px">  
+<div align="center">
+<div>
+<img src="./assets/alarcon-welcome.gif">
+</div>
+<img src=https://github-readme-stats.vercel.app/api?username=Henriquealarcon&show_icons=true&title_color=e87722&text_color=f0ffff&bg_color=313250&icon_color=e87722&border_radius=9px/>
  </div>
-
-
 
 
 <div align="center">
