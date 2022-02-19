@@ -22,8 +22,6 @@
   {
       "StudyingNow": "Constant trying to not be killed by tests and starting to learn the ways to Phyton",
          "MyDevTeam": "Back-End",
-         "Kernel": "Zen",
-         "Interpreter": "ZSH",
          "Tools": ["VsCode", "Git", "Trello"],
          "Languages": ["JavaScript", "NodeJs", "SQL"],
          "Fav Libs": ["Express-Rescue", "JWT", "Nodemon", "Postman", "Sequelize"],
