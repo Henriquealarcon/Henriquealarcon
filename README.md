@@ -14,6 +14,7 @@
 <div align="center">
    <details>
       <summary><b>Click to know me better!</b></summary>
+<div align="start">
   
 ```json
    "Alarcon": {
@@ -41,7 +42,7 @@
 	   },
    }
 ```
-
+</div>
    </details>
 </div>
 
@@ -51,7 +52,7 @@
 	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12168495903&cover_image=false&theme=default" width="300px"/>
 </p><br><br><br><br><br>
 <div align="center">
-   <h2> Let`s code together, i love to met new people </h2>
+   <h2> Let`s code together, I love to met new people </h2>
 </div>
 <div align="center">
    <img src="./assets/alarcon-code-along.gif" width="300px">
