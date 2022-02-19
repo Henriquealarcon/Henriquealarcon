@@ -14,42 +14,43 @@
 <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
 </div>
 
-
+<details>
+  <summary>Click to know me better!</summary>
+  
 ```json
-{
-   "Will": {
-      "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-      "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,865",
-      "Favorites": {
-         "OperationalSystem": "Arch Linux",
-         "GUI": "XFCE",
+   "Alarcon": 
+  {
+      "StudyingNow": "Constant trying to not be killed by tests and starting to learn the ways to Phyton",
+         "MyDevTeam": "Back-End",
          "Kernel": "Zen",
          "Interpreter": "ZSH",
-         "IDE": "Sublime text",
-         "Language": "Python",
-         "MobileOS": "Android",
-         "Misc": ["Electronics"],
-         "Games": ["Chrono Trigger","Driver: Parallel Lines","Super Smash Brothers Melee"],
-         "Music": {
-            "Genres": ["Rock","Lo-fi","Indie"],
-            "Songs": ["Bad caracther - quasimodo","Goodbye weekend - Mac de marco","Reggae do Maneiro - Raimundos"],
-            "Artists": ["Mac Demarco","Raimundos","Jinsang"]
-         }
-      }
-   },
-   "RandomStuff": {
-      "FunFactOfTheDay": "PEZ candy even comes in a Coffee flavor.",
-      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
-      "DadJokeOfTheDay": "Coffee has a tough time at my house, every morning it gets mugged.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/65nz3i.jpg"
-   }
-}
-
-
+         "Tools": ["VsCode", "Git", "Trello"],
+         "Languages": ["JavaScript", "NodeJs", "SQL"],
+         "Fav Libs": ["Express-Rescue", "JWT", "Nodemon", "Postman", "Sequelize"],
+         "Musics": 
+	   {
+            "Genres": "All genders are enjoyable, depends only of the moment",
+            "Fav Songs": ["Busca - Fábio Jr", "Epitáfio - Titãs", "Your Song - Elton John", "Like a Stone - Audioslave", "Whiskey in the Jar - Metallica" ... ]
+	   },
+           "InsideHobbies":
+		  {      
+		    "Watched Sports": ["Soccer","NBA","NFL", "Tennis"],
+		    "E-Sports": ["League of Legends", "CS-GO"],
+		    "RemarkableGames": ["Zelda, Ocarina of Time", "Mario Party", "God of War", "Devil May Cry 3", "Pokemon Stadium", "Super Mario 64"],
+		    "GamesPlaying": ["Lost Ark", "Team Fight Tactics"],
+		    "Fav Series": ["Mare of Eastown", "Stranger Things", "Sucession", "The OC", "How I Met your Mother", "Fresh Prince of Bel Air"],
+		    "Fav Movies": ["Lord of the Rings", "Harry Potter", "Saving Private Ryan", "I Love you Man", "Beerfest"],
+		    "Fav Animes": ["Hunter x Hunter", "Bleach", "Death Note", "Shingeki no Kyojin", "Kimetsu no Yaiba", "FMA Brotherhood"],
+	           },
+	    "OutsideHobbies":
+	          {          
+		    "Sports": ["Soccer", "Jiu-jitsu", "Snooker", "Gym"],
+		    "Social": ["Craft beers", "Pubs", "Samba", "Sertanejos"],
+		  },
+  }
 ```
+</details>
+
 
 <p align="center">A little bit of myself.</p>
 <p align="center">
