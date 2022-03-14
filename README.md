@@ -50,7 +50,7 @@
 <p align="center">A little bit of myself.</p>
 <p align="center">
 	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12168495903&cover_image=false&theme=default" width="300px"/>
-</p><br><br><br><br><br>
+</p><br><br>
 <div align="center">
    <h2> Let`s code together, I love to met new people </h2>
 </div>
