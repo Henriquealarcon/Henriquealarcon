@@ -3,7 +3,6 @@
    <div>
       <img src="./assets/alarcon-welcome.gif">
    </div>
-   <img src=https://github-readme-stats.vercel.app/api?username=Henriquealarcon&show_icons=true&title_color=e87722&text_color=f0ffff&bg_color=313250&icon_color=e87722&border_radius=9px&include_all_commits=true&count_private=true/>
 </div><br><br>
 <div align="center">
    <img src = "https://img.shields.io/badge/-HTML5-313250?style=plastic&logo=html5&logoColor=E34F26" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-313250?style=plastic&logo=css3&logoColor=1572B6" width="75px"> <img src = "https://img.shields.io/badge/-JavaScript-313250?style=plastic&logo=javascript&logoColor=eed718" width="110px"> <img src="https://img.shields.io/badge/-Node.js-313250?style=plastic&logo=Node.js&logoColor=3C873A" width="90px"> <img src="https://img.shields.io/badge/-ReactJs-313250?logo=react&logoColor=61DAFB&style=plastic" width="90px"> <img src="https://img.shields.io/badge/-git-313250?logo=git&logoColor=F05032&style=plastic" width="55px"><br> 
